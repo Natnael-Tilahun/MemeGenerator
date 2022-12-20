@@ -8,7 +8,7 @@ const Navbar = () => {
             <h1 className='text-lg font-bold'>Meme Generator</h1>
         </div>
    
-        <h1>React Course - Project 3</h1>
+        <h1>React Course - Project 4</h1>
     </div>
   )
 }
